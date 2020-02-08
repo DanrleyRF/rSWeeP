@@ -26,3 +26,5 @@ Changes in version 0.99.6 (2020-01-21)
 + Error removed
 Changes in version 0.99.7 (2020-01-21)
 + Warning removed
+Changes in version 0.99.12 (2020-02-08)
++ 2000+ sequences multifasta error removed
